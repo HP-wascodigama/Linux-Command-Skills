@@ -1,2 +1,2 @@
 # Linux-Skills
-file shows the basic smart linux cammands which help to work fast and smartly.
+file shows the basic smart linux commands which help to work fast and smartly.
